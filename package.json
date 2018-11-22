@@ -1,0 +1,23 @@
+{
+  "name": "@mysa/jsmn",
+  "version": "1.0.0",
+  "description": "JSMN for Firmware",
+  "main": "jsmn.c",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empoweredhomes/jsmn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empoweredhomes/jsmn/issues"
+  },
+  "homepage": "https://github.com/empoweredhomes/jsmn#readme"
+}
